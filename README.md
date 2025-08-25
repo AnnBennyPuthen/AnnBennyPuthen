@@ -35,7 +35,7 @@ I love exploring how intelligent systems can solve real-world problems — from 
 ### 📚 Currently Learning
 - **Python** for AI/ML applications  
 - **ROS2** & Gazebo for robotics simulation  
-- Advanced backend development with **Node.js & Express**  
+- Advanced full stack development with **MERN Stack**  
 
 ---
 
